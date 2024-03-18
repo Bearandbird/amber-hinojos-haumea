@@ -1,3 +1,3 @@
 # amber-hinojos-haumea
-Intro to Programming, week 8,  
+Intro to Programming,  
 Amber Hinojos
